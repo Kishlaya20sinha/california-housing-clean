@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+gradio
+joblib
+=======
+gradio
+joblib
+>>>>>>> b4c1e1b (Updated app.py and requirements.txt)
